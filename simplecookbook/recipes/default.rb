@@ -6,5 +6,5 @@
 
 # create test user
 user test do
-    action :create
+  action :create
 end
